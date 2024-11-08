@@ -1,4 +1,21 @@
 ---
 title: "Yingqi Wang"
-image: images/Yingqi_Wang
+image: "Photo/Yingqi.jpg"
+about:
+  template: jolla
+  image: "Photo/Yingqi.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Yingqi-Wang
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/yingqi-wang-a203072b8/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/kkkkkkking_yq/
 ---
+
+::: summary
+Hello there! I'm Yingqi Wang, a second-year master's student in Epidemiology with a passion for pharmacoepidemiology and data analysis. Currently my researches are mainly about utilizing real-world data to analyze the effectiveness and safety of medications, especially in neurodegenerative diseases.
+:::

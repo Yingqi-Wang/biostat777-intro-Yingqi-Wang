@@ -1,1 +1,48 @@
 /* css styles */
+
+.navbar {
+    background-color: #fcf1e7 !important; /* Custom color for the navbar */
+}
+body {
+    background-color: #fcf1e7; /* Custom color for the background */
+}
+
+
+.navbar-brand h1, .navbar-brand {
+    color:#725545 ; 
+    font-weight: bold; 
+    font-size: 1.8em; 
+}
+
+.title {
+    font-weight: bold; 
+    font-size: 50px; 
+    color: #5f4739;
+}
+
+.summary {
+    color: #4c392e;
+    font-family: 'Arial', sans-serif; 
+    font-size: 19px; 
+    line-height: 1.5; 
+    font-weight: 500; 
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+
+#refs { 
+  padding: 0;       
+  font-size: 14px;  
+  color: #333;      
+  line-height: 1.5; 
+}
+
+
+
+#refs li {
+  text-indent: -2em; 
+  margin-left: 2em;
+}
+
+
